@@ -41,7 +41,7 @@ class HomeScreen extends StatelessWidget {
                       width: 52,
                       decoration: const BoxDecoration(shape: BoxShape.circle),
                       // color: const Color.fromARGB(255, 229, 182, 156),
-                      child: SvgPicture.asset('assets/icons/menue.svg'),
+                     child: SvgPicture.asset('assets/icons/menu.svg'),
                     ),
                   ),
                   Text(
